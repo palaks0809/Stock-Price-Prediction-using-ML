@@ -1,0 +1,11 @@
+This project successfully developed a machine learning-based stock price forecasting system using the AAPL dataset containing more than 60 technical and market-related indicators. A comprehensive data engineering pipeline was implemented, including exploratory data analysis, feature engineering, data preparation, feature selection, and data transformation to improve the quality and predictive power of the dataset.
+
+Several machine learning algorithms were evaluated, including Linear Regression, Ridge Regression, Lasso Regression, Elastic Net, Random Forest, AdaBoost, and XGBoost. The performance of each model was assessed using Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), Mean Absolute Percentage Error (MAPE), and R² Score.
+
+Among all the models tested, Ridge Regression achieved the best overall performance with an R² score of 0.999226, MAE of 1.0641, RMSE of 2.2206, and MAPE of 0.0165. Random Forest also demonstrated excellent predictive capability with the lowest percentage forecasting error. The results indicate that the technical indicators contained significant information about future stock price movements and that machine learning models can effectively learn these relationships.
+
+Additional engineered features such as lag variables, rolling averages, momentum indicators, and volatility measures further enhanced the predictive performance of the models. Correlation analysis and feature importance evaluation helped identify the most influential variables contributing to stock price prediction.
+
+Based on the experimental results, Ridge Regression was selected as the best-performing model and was used to forecast stock prices for the next seven trading days. The generated forecasts demonstrate the practical application of machine learning in supporting data-driven investment analysis and trading decisions.
+
+In conclusion, this project highlights the effectiveness of combining data engineering techniques with machine learning algorithms for stock market forecasting. Future improvements may include the implementation of deep learning models such as LSTM and GRU, real-time data integration, hyperparameter optimization, and the use of chronological validation techniques to further enhance forecasting accuracy and robustness.

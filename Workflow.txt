@@ -1,0 +1,52 @@
+✅ Problem Definition
+✅ Exploratory Data Analysis
+✅ Missing Value Analysis
+✅ Duplicate Analysis
+✅ Correlation Heatmap
+✅ Feature Distribution Analysis
+✅ Data Engineering
+
+Lag Features
+Rolling Means
+Rolling Standard Deviations
+Daily Returns
+Momentum
+Volatility
+
+✅ Data Preparation
+✅ Feature Selection
+✅ Top-20 Correlation Heatmap
+✅ Data Transformation
+✅ Train/Test Split
+
+
+****Machine Learning Models****
+
+✅ Linear Regression
+✅ Ridge Regression
+✅ Lasso Regression
+✅ Elastic Net
+✅ Random Forest
+✅ AdaBoost
+✅ XGBoost
+
+***Evaluation***
+
+✅ MAE
+✅ RMSE
+✅ R²
+✅ MAPE
+
+**Visualizations**
+
+✅ Correlation Heatmap
+✅ Top-20 Correlation Heatmap
+✅ Model Comparison (Improved)
+✅ Feature Importance
+✅ Actual vs Predicted
+✅ Forecast Plot
+
+*Forecasting*
+
+✅ 7-Day Stock Price Forecast
+✅ CSV Export

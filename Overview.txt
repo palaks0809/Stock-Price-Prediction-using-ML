@@ -1,0 +1,10 @@
+The dataset (AAPL.CSV) has around 60 features. All of these features have something to offer for forecasting of the stock prices. Some tells us about the trend, some gives us a signal if the stock is overbought or oversold, some portrays the strength of the price trend. 
+Analyze the data and do extensive data engineering and forecast the futuristic prices of the stock using Linear Regression Model which will be used in the future to predict the stock prices for trading purposes for next 1 week.
+Data should be used for above exercise is given to you in CSV format which needs to imported and used throughout the exercise.
+Algorithms can be used:
+Simple Linear Regression
+Linear Regression (Lasso, Ridge, Elastic Net)
+Random Forest
+XGBoost
+RNN (LSTM or GRU)
+AdaBoost

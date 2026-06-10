@@ -1,0 +1,9 @@
+# Future Scope
+
+* Implement advanced deep learning models such as LSTM and GRU for sequential pattern learning.
+* Integrate real-time stock market data using financial APIs.
+* Perform hyperparameter tuning using Grid Search or Bayesian Optimization.
+* Incorporate sentiment analysis from financial news and social media.
+* Develop an interactive dashboard for visualization and forecasting.
+* Evaluate the model using walk-forward validation for more realistic trading scenarios.
+* Extend the framework to forecast multiple stocks and portfolio-level performance.
